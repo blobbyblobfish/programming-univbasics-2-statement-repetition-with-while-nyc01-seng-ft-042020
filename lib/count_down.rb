@@ -1,10 +1,10 @@
 # Write your code here
 
 
-count = 10
+count = 11
 while count >= 1 do 
-  count -= 1 
-  p count
+  puts count
+   count -= 1
 end
 puts "Happy New Year!"
 
